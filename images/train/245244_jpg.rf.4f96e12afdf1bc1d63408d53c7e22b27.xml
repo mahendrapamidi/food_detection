@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>245244_jpg.rf.4f96e12afdf1bc1d63408d53c7e22b27.jpg</filename>
+	<path>245244_jpg.rf.4f96e12afdf1bc1d63408d53c7e22b27.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>415</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>burger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>88</xmin>
+			<xmax>269</xmax>
+			<ymin>91</ymin>
+			<ymax>272</ymax>
+		</bndbox>
+	</object>
+</annotation>

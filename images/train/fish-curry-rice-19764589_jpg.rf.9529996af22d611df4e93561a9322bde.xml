@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>fish-curry-rice-19764589_jpg.rf.9529996af22d611df4e93561a9322bde.jpg</filename>
+	<path>fish-curry-rice-19764589_jpg.rf.9529996af22d611df4e93561a9322bde.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>535</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fish</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>100</xmin>
+			<xmax>744</xmax>
+			<ymin>26</ymin>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+</annotation>

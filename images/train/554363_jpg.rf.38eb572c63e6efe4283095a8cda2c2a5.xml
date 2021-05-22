@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>554363_jpg.rf.38eb572c63e6efe4283095a8cda2c2a5.jpg</filename>
+	<path>554363_jpg.rf.38eb572c63e6efe4283095a8cda2c2a5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>burger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>151</xmin>
+			<xmax>511</xmax>
+			<ymin>108</ymin>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+</annotation>

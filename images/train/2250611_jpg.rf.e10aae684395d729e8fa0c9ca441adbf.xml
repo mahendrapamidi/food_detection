@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>2250611_jpg.rf.e10aae684395d729e8fa0c9ca441adbf.jpg</filename>
+	<path>2250611_jpg.rf.e10aae684395d729e8fa0c9ca441adbf.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pizza</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>14</xmin>
+			<xmax>491</xmax>
+			<ymin>224</ymin>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>
